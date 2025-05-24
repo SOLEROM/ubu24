@@ -1,5 +1,6 @@
 # shell
 
+* use tit for title bar
 
 ## source main aliases
 
